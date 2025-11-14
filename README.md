@@ -10,7 +10,8 @@ Designed for my upcoming FLY Social app.
 - Fully ready for backend integration
 
 ## 📸 Preview
-(Add screenshot here later)
+
+<img width="884" height="912" alt="Screenshot 2025-11-14 193926" src="https://github.com/user-attachments/assets/8d3c7d58-c205-4d0b-b4a0-806e51b20c05" />
 
 ## 📂 Project Structure
 login.html 
