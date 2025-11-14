@@ -35,9 +35,9 @@ Designed for authentication screens in websites, apps, and social platforms.
 
 ```
 /login-project
-│── index.html
+│── login.html
 │── style.css
-│── script.js
+│── user.js
 │── assets/
 │   └── screenshots
 ```
@@ -51,7 +51,7 @@ Designed for authentication screens in websites, apps, and social platforms.
    ```
    git clone https://github.com/Mritunjay67/login.git
    ```
-2. Open **index.html** in any browser
+2. Open **login.html** in any browser
 3. Done 🎉
 
 ---
